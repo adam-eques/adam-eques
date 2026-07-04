@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=AI%20Engineer&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Agentic%20Systems%20%E2%80%A2%20RAG%20Pipelines%20%E2%80%A2%20Go%20%2B%20Python&descSize=20&descAlignY=72" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+agentic+AI+pipelines+in+production;20%2C000%E2%80%9330%2C000+ads%2Fday+on+Google+Cloud;RAG+%C2%B7+LangGraph+%C2%B7+Multi-agent+orchestration;Go+%2B+Python+%C2%B7+7%2B+years+backend;GPU+inference+%C2%B7+2%E2%80%934M+monthly+visits" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+agentic+AI+pipelines+in+production;20%2C000%E2%80%9330%2C000+ads%2Fday+on+Google+Cloud;RAG+%C2%B7+LangGraph+%C2%B7+Multi-agent+orchestration;Go+%2B+Python+%C2%B7+7%2B+years+backend;GPU+inference+%C2%B7+2%E2%80%934M+monthly+visits;MCP+servers+%26+clients+in+Go+%C2%B7+zero+dependencies" alt="Typing SVG" />
 
 <br/>
 
@@ -93,13 +93,22 @@ End-to-end document intelligence for finance teams: PDF/DOCX ingestion → chunk
 
 ### 📦 Open source
 
-**[langgraph-research-agent](https://github.com/adam-eques/langgraph-research-agent)**
+**[mcpkit](https://github.com/adam-eques/mcpkit)** · `Go`
+Zero-dependency MCP server toolkit for Go — JSON-RPC 2.0, pure stdlib, concurrent request handling, HTTP gateway, and built-in observability. No third-party packages required.
+
+**[mcpc](https://github.com/adam-eques/mcpc)** · `Go`
+Zero-dependency MCP client for Go — library + CLI. Connects to any MCP server via stdio or HTTP, usable as a package or standalone tool. Pure stdlib.
+
+**[langgraph-research-agent](https://github.com/adam-eques/langgraph-research-agent)** · `Python`
 Multi-agent LangGraph research pipeline — typed `StateGraph`, hybrid BM25 + semantic retrieval with RRF, cross-encoder reranking, FastAPI SSE streaming, and LLM-powered synthesis. Full RAG stack with pgvector and Chroma.
 
-**[extractflow](https://github.com/adam-eques/extractflow)**
+**[finsight-crew](https://github.com/adam-eques/finsight-crew)** · `Python`
+Multi-agent CrewAI crew that researches a stock and writes a cited investment brief — company analysis, market data, SEC filings, and risk assessment in one run.
+
+**[extractflow](https://github.com/adam-eques/extractflow)** · `Python`
 Schema-validated structured extraction from PDF, DOCX, CSV, and email using LLMs — built for automation pipelines.
 
-**[flowra](https://github.com/adam-eques/flowra)**
+**[flowra](https://github.com/adam-eques/flowra)** · `Go`
 Self-hostable workflow automation engine in Go. Define LLM-powered pipelines as a single YAML file, ship as one static binary.
 
 ---
