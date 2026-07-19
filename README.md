@@ -21,7 +21,7 @@ I build the backend infrastructure that makes AI work at production scale — ev
 ### ⚡ Shipped at scale
 
 **🤖 Nova — Agentic AI Advertising Platform**
-`Python · Google Cloud Pub/Sub · Cloud Tasks · Claude · Google Imagen · Meta Ads API`
+`Python · TypeScript · Gemini · Google Cloud Pub/Sub · Cloud Tasks · Meta Ads API`
 
 Seven independent Python agent-services coordinated via Cloud Pub/Sub: page generation, content writing, image generation, QA gating, ad launch, budget control, and monitoring — sustaining **20,000–30,000 ads/day**. A QA agent blocks bad creatives before any ad spend; a monitoring agent feeds live performance data back into generation prompts.
 
