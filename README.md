@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=AI%20Engineer&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Agentic%20Systems%20%E2%80%A2%20RAG%20Pipelines%20%E2%80%A2%20Go%20%2B%20Python&descSize=20&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=AI%20%26%20Backend%20Engineer&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Go%20%C2%B7%20Python%20%C2%B7%20TypeScript%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Event-Driven%20Architecture&descSize=18&descAlignY=72" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+agentic+AI+pipelines+in+production;20%2C000%E2%80%9330%2C000+ads%2Fday+on+Google+Cloud;RAG+%C2%B7+LangGraph+%C2%B7+Multi-agent+orchestration;Go+%2B+Python+%C2%B7+7%2B+years+backend;GPU+inference+%C2%B7+2%E2%80%934M+monthly+visits;MCP+servers+%26+clients+in+Go+%C2%B7+zero+dependencies" alt="Typing SVG" />
-
-<br/>
-
-[![Telegram](https://img.shields.io/badge/Telegram-@dracoeques-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dracoeques)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+agentic+AI+pipelines+in+production;20%2C000%E2%80%9330%2C000+ads%2Fday+on+Google+Cloud;RAG+%C2%B7+LangGraph+%C2%B7+Multi-agent+orchestration;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+7%2B+years+backend;QA+gates+%26+eval+loops+before+any+ad+spend;GPU+inference+%C2%B7+2%E2%80%934M+monthly+visits;MCP+servers+%26+clients+in+Go+%C2%B7+zero+dependencies" alt="Typing SVG" />
 
 </div>
 
@@ -14,16 +10,16 @@
 
 I build the backend infrastructure that makes AI work at production scale — event-driven agent pipelines, RAG-based document intelligence, and GPU inference serving that holds up under real load.
 
-7+ years of Go and Python backend engineering, now focused on the agentic AI layer: multi-agent orchestration, retrieval pipelines, and LLM integrations that stay reliable in production.
+7+ years of production backend engineering across Go, Python, and TypeScript — now focused on the agentic AI layer: multi-agent orchestration, retrieval pipelines, evaluation loops, and LLM integrations that stay correct under load, retries, and partial failure.
 
 ---
 
 ### ⚡ Shipped at scale
 
-**🤖 Nova — Agentic AI Advertising Platform**
-`Python · TypeScript · Gemini · Google Cloud Pub/Sub · Cloud Tasks · Meta Ads API`
+**🤖 Nova — AI Advertising Automation Platform**
+`TypeScript · Node.js (Fastify) · Python (FastAPI) · PostgreSQL (Prisma) · Gemini · Google Cloud Pub/Sub · Cloud Tasks · Meta Ads API`
 
-Seven independent Python agent-services coordinated via Cloud Pub/Sub: page generation, content writing, image generation, QA gating, ad launch, budget control, and monitoring — sustaining **20,000–30,000 ads/day**. A QA agent blocks bad creatives before any ad spend; a monitoring agent feeds live performance data back into generation prompts.
+Seven specialized services — page generation, content, image generation, QA gating, CMS publish, ad launch, budget allocation — coordinated by an event-driven TypeScript/Fastify orchestrator: Cloud Tasks command queues out, Pub/Sub events back, sustaining **20,000–30,000 ads/day**. Message-ID deduplication gives exactly-once event handling over at-least-once delivery, and a monotonic status state machine means duplicate or out-of-order events can never corrupt campaign state. An automated QA gate blocks bad creatives before any ad spend; a monitoring service benchmarks live creatives and feeds results back into prompt selection — a continuously running production eval loop, not an offline benchmark.
 
 ---
 
@@ -35,7 +31,7 @@ Go backend serving a platform with **2–4M monthly visits** (peaked at 12M). Dy
 ---
 
 **📄 Finance Document Intelligence — RAG Pipeline**
-`Python · RAG · pgvector · LLM API · Streaming`
+`Python (asyncio) · RAG · pgvector (PostgreSQL) · Claude (Anthropic API) · Streaming`
 
 End-to-end document intelligence for finance teams: PDF/DOCX ingestion → chunking → vector embedding → hybrid retrieval → grounded Q&A with source citations. Replaced hours of manual cross-referencing with sub-second answers anchored to retrieved passages, not model weights.
 
@@ -69,8 +65,10 @@ End-to-end document intelligence for finance teams: PDF/DOCX ingestion → chunk
 **🚀 Backend & Infrastructure**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -120,8 +118,6 @@ Self-hostable workflow automation engine in Go. Define LLM-powered pipelines as 
 ---
 
 <div align="center">
-
-[![Telegram](https://img.shields.io/badge/Reach%20me%20on%20Telegram-@dracoeques-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dracoeques)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
 
