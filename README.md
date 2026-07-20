@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=AI%20%26%20Backend%20Engineer&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Go%20%C2%B7%20Python%20%C2%B7%20TypeScript%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Event-Driven%20Architecture&descSize=18&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=AI%20%26amp%3B%20Backend%20Engineer&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Go%20%C2%B7%20Python%20%C2%B7%20TypeScript%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Event-Driven%20Architecture&descSize=18&descAlignY=72" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+agentic+AI+pipelines+in+production;20%2C000%E2%80%9330%2C000+ads%2Fday+on+Google+Cloud;RAG+%C2%B7+LangGraph+%C2%B7+Multi-agent+orchestration;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+7%2B+years+backend;QA+gates+%26+eval+loops+before+any+ad+spend;GPU+inference+%C2%B7+2%E2%80%934M+monthly+visits;MCP+servers+%26+clients+in+Go+%C2%B7+zero+dependencies" alt="Typing SVG" />
 
